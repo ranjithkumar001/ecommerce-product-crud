@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Fresh and crisp apples harvested from local orchards.",
+      "price": "50.25"
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "description": "Ripe and sweet bananas, a healthy and convenient snack option.",
+      "price": "10.50"
+    },
+    {
+      "id": 3,
+      "name": "Spinach",
+      "description": "Leafy green spinach packed with vitamins and minerals.",
+      "price": "35.00"
+    },
+    {
+      "id": 4,
+      "name": "Carrot",
+      "description": "Crunchy and nutritious carrots, perfect for snacking or cooking.",
+      "price": "50.00"
+    },
+    {
+      "id": 5,
+      "name": "Men's T-Shirt",
+      "description": "Comfortable cotton t-shirt for men, available in various colors and sizes.",
+      "price": "350.50"
+    },
+    {
+      "id": 6,
+      "name": "Women's Jeans",
+      "description": "Stylish and durable jeans for women, perfect for casual or dressy occasions.",
+      "price": "500.00"
+    },
+    {
+      "name": "Kids' Hoodie",
+      "description": "Warm and cozy hoodie for kids, featuring fun and colorful designs.",
+      "price": "101.00",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Running Shoes",
+      "description": "Lightweight and breathable running shoes for an active lifestyle.",
+      "price": "111.25"
+    },
+    {
+      "name": "Athletic Shorts",
+      "description": "Breathable and moisture-wicking athletic shorts for optimal comfort during workouts.",
+      "price": "101.47",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Winter Jacket",
+      "description": "Insulated winter jacket with a hood, designed to keep you warm in cold weather.",
+      "price": "103.00"
+    }
+  ]
+}
